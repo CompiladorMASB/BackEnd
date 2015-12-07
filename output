@@ -1,0 +1,20 @@
+63 i i 1
+6B t1 i 8
+39 t2 a[t1]
+A1 t2 v 100
+67 j j 1
+6B t3 j 8
+39 t4 a[t3]
+A3 t4 v 104
+A2 i j 110
+A7 119
+6B t5 i 8
+39 x a[t5]
+6B t6 i 8
+6B t7 j 8
+39 t8 a[t7]
+39 [t6] t8
+6B t9 j 8
+39 [t9] x
+A7 100
+
